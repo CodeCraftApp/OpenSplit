@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288699202009",
+    "project_id": "opensplit-1508",
+    "storage_bucket": "opensplit-1508.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288699202009:android:7e188b5affd988f5d201c8",
+        "android_client_info": {
+          "package_name": "com.app.opensplit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6qEZu12eIUMTO4DfGHjjQCcqDniwqBUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
